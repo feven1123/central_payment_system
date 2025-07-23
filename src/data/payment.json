@@ -1,0 +1,48 @@
+[
+    {
+      "id": "TXN-001",
+      "website": "Qetero",
+      "service": "Ticket Booking",
+      "amount": "250 ETB",
+      "status": "Success",
+      "timestamp": "2025-07-23T10:30:00Z",
+      "customer": "john@example.com"
+    },
+    {
+      "id": "TXN-002",
+      "website": "Soreti",
+      "service": "Gift Cards",
+      "amount": "500 ETB",
+      "status": "Pending",
+      "timestamp": "2025-07-22T15:45:00Z",
+      "customer": "sarah@example.com"
+    },
+    {
+      "id": "TXN-003",
+      "website": "TechStore Pro",
+      "service": "Electronics",
+      "amount": "1200 ETB",
+      "status": "Success",
+      "timestamp": "2025-07-22T09:15:00Z",
+      "customer": "mike@example.com"
+    },
+    {
+      "id": "TXN-004",
+      "website": "Qetero",
+      "service": "Wallet Recharge",
+      "amount": "100 ETB",
+      "status": "Failed",
+      "timestamp": "2025-07-21T14:20:00Z",
+      "customer": "anna@example.com"
+    },
+    {
+      "id": "TXN-005",
+      "website": "Soreti",
+      "service": "Spa Booking",
+      "amount": "800 ETB",
+      "status": "Success",
+      "timestamp": "2025-07-21T11:30:00Z",
+      "customer": "david@example.com"
+    }
+  ]
+  

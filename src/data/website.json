@@ -1,0 +1,30 @@
+[
+    {
+      "id": "qetero",
+      "name": "Qetero",
+      "services": ["Ticket Booking", "Wallet Recharge"],
+      "status": "Active",
+      "domain": "qetero.com",
+      "totalRevenue": 45230,
+      "monthlyTransactions": 1250
+    },
+    {
+      "id": "soreti",
+      "name": "Soreti",
+      "services": ["Spa Booking", "Gift Cards"],
+      "status": "Inactive",
+      "domain": "soreti.com",
+      "totalRevenue": 23100,
+      "monthlyTransactions": 450
+    },
+    {
+      "id": "techstore",
+      "name": "TechStore Pro",
+      "services": ["Electronics", "Digital Downloads", "Subscriptions"],
+      "status": "Active",
+      "domain": "techstore.com",
+      "totalRevenue": 78450,
+      "monthlyTransactions": 2100
+    }
+  ]
+  
